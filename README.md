@@ -15,7 +15,7 @@ Case composed of Top.step and Bottom.step.
 
 Schematic                  |  PCB                      |  PCB Front Preview              |  PCB Back Preview
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![img](img/schematic.png)  |  ![img](img/pcb.png)      |  ![img](img/pcb_front.png) |  ![img](img/pcb-back.png)
+![img](img/schematic.png)  |  ![img](img/pcb.png)      |  ![img](img/pcb-front.png) |  ![img](img/pcb-back.png)
 
 Assembled Device           |  Case Components
 :-------------------------:|:-------------------------:|

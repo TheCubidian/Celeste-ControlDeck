@@ -12,3 +12,11 @@ Did you ever play Celeste with arrow keys? Hated it because those were the defau
 - 7x White DSA Keycaps
 
 Case composed of Top.step and Bottom.step.
+
+Schematic            |  PCB         |   PCB Preview
+:-------------------------:|:-------------------------:|:-------------------------:|
+![img](img/schematic.png)    |  ![img](img/pcb.png)  | ![img](img/pcb_preview.png)
+
+Assembled Device           |  Case Components
+:-------------------------:|:-------------------------:|
+![img](img/assembled.png)    |  ![img](img/case.png)

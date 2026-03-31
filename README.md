@@ -1,4 +1,4 @@
-# Celeste-ControlPad
+# Celeste-ControlDeck
 
 Did you ever play Celeste with arrow keys? Hated it because those were the default keybinds?
  The Celeste ControlDeck vanquishes this issue, by giving you a dedicated 7 keys to replace those arrow keys,

@@ -13,9 +13,9 @@ Did you ever play Celeste with arrow keys? Hated it because those were the defau
 
 Case composed of Top.step and Bottom.step.
 
-Schematic            |  PCB         |   PCB Preview
-:-------------------------:|:-------------------------:|:-------------------------:|
-![img](img/schematic.png)    |  ![img](img/pcb.png)  | ![img](img/pcb_preview.png)
+Schematic                  |  PCB                      |  PCB Front Preview              |  PCB Back Preview
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![img](img/schematic.png)  |  ![img](img/pcb.png)      |  ![img](img/pcb_front.png) |  ![img](img/pcb-back.png)
 
 Assembled Device           |  Case Components
 :-------------------------:|:-------------------------:|

@@ -1,8 +1,7 @@
 # Celeste-ControlDeck
 
 Did you ever play Celeste with arrow keys? Hated it because those were the default keybinds?
- The Celeste ControlDeck vanquishes this issue, by giving you a dedicated 7 keys to replace those arrow keys,
- and did I mention, you can even use it for other games with the same despicable keybinds?
+The Celeste ControlDeck vanquishes this issue, by giving you a dedicated 7 keys to replace those arrow keys.
 
 ## BOM
 - 8x SK6812MINI-E
